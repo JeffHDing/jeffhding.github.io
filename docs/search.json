@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m a developing data scientist who’s currently studying in the University of British Columbia. This website was developed using Quarto and will serve as a makeshift WIP portfolio moving forward. Feel free to browse, and I hope you enjoy your visit!"
+    "text": "Welcome!\nThis is small space I’ve built for myself to share what I’ve discovered in the field of Data Science and coding in general. I have always been curious about the way things work; I love discovering new fields and studying the governing principles within them. My undergraduate background is in Interdisciplinary Medical Sciences, and my career started in clinical research of haematologic malaginancies. However, over time, I realized that my true passion lies in the realm of data.\nThrough independent study and the generous guidance of mentors, I taught myself the fundamentals of coding and analytics. I began building my own projects with a focus on practicing Data Engineering and Machine Learning Engineering concepts. My work includes developing deep learning solutions, such as a Convolutional Neural Network (CNN) using Keras and TensorFlow, to detect diabetic retinopathy. My portfolio also features full-stack applications, such as interactive dashboards for airline data and NYC traffic collisions using Streamlit and Python.\nCurrently, I am privileged to be pursuing my Master of Data Science at the University of British Columbia. I am actively seeking opportunities in Data Science, Machine Learning Engineering, and Data Analysis where I can bridge the gap between raw information and scalable, actionable intelligence."
   },
   {
     "objectID": "about.html#welcome",
