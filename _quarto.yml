@@ -15,8 +15,8 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: morph
+      dark: cyborg
     include-after-body: components/scripts.html
     css: styles.css
     toc: true

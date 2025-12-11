@@ -27,11 +27,9 @@ Check out my current stats from Chess.com:
 | **⏱️ Rapid** | <span id="rapid-rating">...</span> |
 | **🧩 Puzzle Rush** | <span id="puzzle-score">...</span> |
 
-<div style="margin-top: 20px;">
-  <a id="challenge-link" 
-     href="#" 
-     target="_blank" 
-     style="background-color: #7fa650; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
-     Loading Challenge Link...
-  </a>
-</div>
+<a id="challenge-link" 
+   href="#" 
+   target="_blank" 
+   class="btn btn-primary btn-lg"> 
+   Loading Challenge Link...
+</a>

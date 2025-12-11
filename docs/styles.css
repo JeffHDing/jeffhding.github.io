@@ -1,1 +1,9 @@
 /* css styles */
+/* Custom Green Morph Button */
+.btn-primary {
+  background-color: #7fa650 !important; /* Chess.com Green */
+  border-color: #7fa650 !important;
+  color: white !important;
+  /* Adjust shadows to match the darker green if needed, 
+     but often the default shadows work fine. */
+}
