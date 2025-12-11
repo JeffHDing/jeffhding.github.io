@@ -114,6 +114,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome!</a></li>
+  <li><a href="#some-of-my-hobbies" id="toc-some-of-my-hobbies" class="nav-link" data-scroll-target="#some-of-my-hobbies">Some of My Hobbies</a>
+  <ul class="collapse">
+  <li><a href="#chess" id="toc-chess" class="nav-link" data-scroll-target="#chess">Chess</a>
+  <ul class="collapse">
+  <li><a href="#player-profile" id="toc-player-profile" class="nav-link" data-scroll-target="#player-profile">Player Profile</a></li>
+  </ul></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -144,11 +151,53 @@ ul.task-list li input[type="checkbox"] {
 <p>This is small space I’ve built for myself to share what I’ve discovered in the field of Data Science and coding in general. I have always been curious about the way things work; I love discovering new fields and studying the governing principles within them. My undergraduate background is in Interdisciplinary Medical Sciences, and my career started in clinical research of haematologic malaginancies. However, over time, I realized that my true passion lies in the realm of data.</p>
 <p>Through independent study and the generous guidance of mentors, I taught myself the fundamentals of coding and analytics. I began building my own projects with a focus on practicing Data Engineering and Machine Learning Engineering concepts. My work includes developing deep learning solutions, such as a Convolutional Neural Network (CNN) using Keras and TensorFlow, to detect diabetic retinopathy. My portfolio also features full-stack applications, such as interactive dashboards for airline data and NYC traffic collisions using Streamlit and Python.</p>
 <p>Currently, I am privileged to be pursuing my Master of Data Science at the University of British Columbia. I am actively seeking opportunities in Data Science, Machine Learning Engineering, and Data Analysis where I can bridge the gap between raw information and scalable, actionable intelligence.</p>
+</section>
+<section id="some-of-my-hobbies" class="level1">
+<h1>Some of My Hobbies</h1>
+<section id="chess" class="level2">
+<h2 class="anchored" data-anchor-id="chess">Chess</h2>
+<p>I first picked up chess during my undergraduate program as a competitive and mentally stimulating outlet. While my rating is quite low, chess has been a pleasant on-and-off hobby of mine over the years. I enjoy playing casual games, solving puzzles, and occasionally watching chess content!</p>
+<section id="player-profile" class="level3">
+<h3 class="anchored" data-anchor-id="player-profile">Player Profile</h3>
+<p><strong>My Player Name:</strong> <span id="chess-username">Loading…</span></p>
+<p>Check out my current stats from Chess.com:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Mode</th>
+<th style="text-align: left;">Rating</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>⚡ Blitz</strong></td>
+<td style="text-align: left;"><span id="blitz-rating">…</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>🚀 Bullet</strong></td>
+<td style="text-align: left;"><span id="bullet-rating">…</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>⏱️ Rapid</strong></td>
+<td style="text-align: left;"><span id="rapid-rating">…</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>🧩 Puzzle Rush</strong></td>
+<td style="text-align: left;"><span id="puzzle-score">…</span></td>
+</tr>
+</tbody>
+</table>
+<div style="margin-top: 20px;">
+<p><a id="challenge-link" href="#" target="_blank" style="background-color: #7fa650; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;"> Loading Challenge Link… </a></p>
+</div>
 
 
 </section>
+</section>
+</section>
 
 </main> <!-- /main -->
+<script src="src/js/chess_stats.js"></script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

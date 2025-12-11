@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - src/js/
 
 website:
   title: "Jeffrey's Git Page"
@@ -15,6 +17,7 @@ format:
     theme:
       - cosmo
       - brand
+    include-after-body: components/scripts.html
     css: styles.css
     toc: true
 

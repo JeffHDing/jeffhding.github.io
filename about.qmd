@@ -9,3 +9,29 @@ This is small space I've built for myself to share what I've discovered in the f
 Through independent study and the generous guidance of mentors, I taught myself the fundamentals of coding and analytics. I began building my own projects with a focus on practicing Data Engineering and Machine Learning Engineering concepts. My work includes developing deep learning solutions, such as a Convolutional Neural Network (CNN) using Keras and TensorFlow, to detect diabetic retinopathy. My portfolio also features full-stack applications, such as interactive dashboards for airline data and NYC traffic collisions using Streamlit and Python.
 
 Currently, I am privileged to be pursuing my Master of Data Science at the University of British Columbia. I am actively seeking opportunities in Data Science, Machine Learning Engineering, and Data Analysis where I can bridge the gap between raw information and scalable, actionable intelligence.
+
+# Some of My Hobbies
+
+## Chess
+I first picked up chess during my undergraduate program as a competitive and mentally stimulating outlet. While my rating is quite low, chess has been a pleasant on-and-off hobby of mine over the years. I enjoy playing casual games, solving puzzles, and occasionally watching chess content!
+
+### Player Profile
+**My Player Name:** <span id="chess-username">Loading...</span>
+
+Check out my current stats from Chess.com:
+
+| Mode | Rating |
+| :--- | :--- |
+| **⚡ Blitz** | <span id="blitz-rating">...</span> |
+| **🚀 Bullet** | <span id="bullet-rating">...</span> |
+| **⏱️ Rapid** | <span id="rapid-rating">...</span> |
+| **🧩 Puzzle Rush** | <span id="puzzle-score">...</span> |
+
+<div style="margin-top: 20px;">
+  <a id="challenge-link" 
+     href="#" 
+     target="_blank" 
+     style="background-color: #7fa650; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+     Loading Challenge Link...
+  </a>
+</div>
