@@ -2,6 +2,17 @@
 title: "Jeffrey's Git Page"
 ---
 # [My GitHub Page](https://github.com/JeffHDing)
+My GitHub page contains various repositories related to my projects and interests. Feel free to explore and contribute!
+
+# Detecting diabetic retinopathy with AI
+This project preprocesses and analyzes retina scans with a Convolutional Neural Network and Residual blocks using Keras and Tensorflow 2.0 to improve early detection of retinopathy.
+
+# Motor Vehicle Collisions of New York City
+This is an interactive web app built using Python, Folium, and Streamlit to visualize NYC traffic accidents.
+Information is pulled from realtime NYC traffic database and visualized below.
+
+# Stock Exchange Revenue Dashboard
+
 
 
 # Website Info

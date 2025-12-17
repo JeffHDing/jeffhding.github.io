@@ -11,13 +11,20 @@
     "href": "about.html#chess",
     "title": "About",
     "section": "Chess",
-    "text": "Chess\nI first picked up chess during my undergraduate program as a competitive and mentally stimulating outlet. While my rating is quite low, chess has been a pleasant on-and-off hobby of mine over the years. I enjoy playing casual games, solving puzzles, and occasionally watching chess content!\n\nPlayer Profile\nMy Player Name: Loading…\nCheck out my current stats from Chess.com:\n\n\n\nMode\nRating\n\n\n\n\n⚡ Blitz\n…\n\n\n🚀 Bullet\n…\n\n\n⏱️ Rapid\n…\n\n\n🧩 Puzzle Rush\n…\n\n\n\n Loading Challenge Link…"
+    "text": "Chess\nI first picked up chess during my undergraduate program as a competitive and mentally stimulating outlet. While my rating is quite low, chess has been a pleasant amateur hobby of mine over the last few years. At my level, the schema of memorized openings and theory is rather limited; therefore, my games quickly diverge from known sequences and into uncharted territory. I really appreciate the abundance of novel challenges in every game, and the convenience of online matchmaking has made chess a consistent pastime. I enjoy playing casual games, solving puzzles, and occasionally watching chess content!\n\nPlayer Profile\nMy Player Name: Loading…\nCheck out my current stats from Chess.com:\n\n\n\nMode\nRating\n\n\n\n\n⚡ Blitz\n…\n\n\n🚀 Bullet\n…\n\n\n⏱️ Rapid\n…\n\n\n🧩 Puzzle Rush\n…\n\n\n\n Loading Challenge Link…"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jeffrey’s Git Page",
     "section": "",
-    "text": "My GitHub Page\n\n\nWebsite Info\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "My GitHub Page\nMy GitHub page contains various repositories related to my projects and interests. Feel free to explore and contribute!\n\n\nDetecting diabetic retinopathy with AI\nThis project preprocesses and analyzes retina scans with a Convolutional Neural Network and Residual blocks using Keras and Tensorflow 2.0 to improve early detection of retinopathy.\n\n\nMotor Vehicle Collisions of New York City\nThis is an interactive web app built using Python, Folium, and Streamlit to visualize NYC traffic accidents. Information is pulled from realtime NYC traffic database and visualized below.\n\n\nStock Exchange Revenue Dashboard\n\n\nWebsite Info\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html#brazilian-jiu-jitsu",
+    "href": "about.html#brazilian-jiu-jitsu",
+    "title": "About",
+    "section": "Brazilian Jiu-jitsu",
+    "text": "Brazilian Jiu-jitsu\nI was first exposed to Brazilian Jiu-jitsu (BJJ) during my undergraduate program when my roommate dove into the sport. As the nearest friend of similar size and build, I was roped into his newfound interest as the defacto sparring partner. Not to say that I didn’t enjoy the experience, I found BJJ to be an very rewarding physical activity with which I’m continuously fascinated.\nPossibly owing to it’s Brazilian influence, BJJ had a more casual environment and culture than its Japanese roots. The ease and friendliness of the sport was more accessible to newcomers and made it easier for me to partipate. As a martial art, BJJ had a surprisingly amount of technical and strategic depth to each match. It also demanded high amounts of energy and exertion for for each sparring session, otherwise known as a roll. This made BJJ a very physically and mentally engaging exercise that I could enjoy in very discrete sections of time."
   }
 ]

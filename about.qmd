@@ -13,7 +13,7 @@ Currently, I am privileged to be pursuing my Master of Data Science at the Unive
 # Some of My Hobbies
 
 ## Chess
-I first picked up chess during my undergraduate program as a competitive and mentally stimulating outlet. While my rating is quite low, chess has been a pleasant on-and-off hobby of mine over the years. I enjoy playing casual games, solving puzzles, and occasionally watching chess content!
+I first picked up chess during my undergraduate program as a competitive and mentally stimulating outlet. While my rating is quite low, chess has been a pleasant amateur hobby of mine over the last few years. At my level, the schema of memorized openings and theory is rather limited; therefore, my games quickly diverge from known sequences and into uncharted territory. I really appreciate the abundance of novel challenges in every game, and the convenience of online matchmaking has made chess a consistent pastime. I enjoy playing casual games, solving puzzles, and occasionally watching chess content!
 
 ### Player Profile
 **My Player Name:** <span id="chess-username">Loading...</span>
@@ -33,3 +33,8 @@ Check out my current stats from Chess.com:
    class="btn btn-primary btn-lg"> 
    Loading Challenge Link...
 </a>
+
+## Brazilian Jiu-jitsu
+I was first exposed to Brazilian Jiu-jitsu (BJJ) during my undergraduate program when my roommate dove into the sport. As the nearest friend of similar size and build, I was roped into his newfound interest as the defacto sparring partner. Not to say that I didn't enjoy the experience, I found BJJ to be an very rewarding physical activity with which I'm continuously fascinated.
+
+Possibly owing to it's Brazilian influence, BJJ had a more casual environment and culture than its Japanese roots. The ease and friendliness of the sport was more accessible to newcomers and made it easier for me to partipate. As a martial art, BJJ had a surprisingly amount of technical and strategic depth to each match. It also demanded high amounts of energy and exertion for for each sparring session, otherwise known as a roll. This made BJJ a very physically and mentally engaging exercise that I could enjoy in very discrete sections of time.
