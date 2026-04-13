@@ -1,0 +1,22 @@
+---
+title: "Motor Vehicle Collision Heatmap of New York City"
+description: "Interactive web app visualizing NYC traffic accidents with real-time data."
+date: "2024-04"
+categories: [Python, Streamlit, Data Visualization, Folium]
+---
+
+## Overview
+
+Designed an interactive web app with Python, Folium, and Streamlit to visualize NYC traffic accidents. Information is pulled from a real-time NYC traffic database and displayed on an interactive heatmap.
+
+## Approach
+
+- Connected to NYC's open traffic collision dataset
+- Built an interactive heatmap layer with Folium
+- Deployed the app as a Streamlit web application
+
+## Tools & Technologies
+
+- Python
+- Streamlit
+- Folium

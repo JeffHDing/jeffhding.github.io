@@ -1,0 +1,30 @@
+---
+title: "Maternal Health Risk Classifier"
+description: "Support Vector Classifier to predict maternal health risk tiers from IoT sensor data."
+date: "2024-08"
+categories: [Python, Machine Learning, Classification]
+---
+
+## Overview
+
+Engineered a Support Vector Classifier (SVC) to predict maternal health risk tiers using processed IoT data, achieving 77% overall accuracy and 91% recall (0.943 AUC) for critical identification of at-risk mothers.
+
+## Approach
+
+- Processed IoT health sensor data for feature engineering
+- Trained and tuned a Support Vector Classifier across multiple risk tiers
+- Prioritized recall to minimize missed high-risk cases
+
+## Results
+
+| Metric | Value |
+| :--- | :--- |
+| Overall Accuracy | 77% |
+| High-Risk Recall | 91% |
+| AUC | 0.943 |
+
+## Tools & Technologies
+
+- Python
+- scikit-learn (SVC)
+- IoT health data

@@ -1,0 +1,23 @@
+---
+title: "Filesystem Organizing API"
+description: "Python API for visualizing file sizes and identifying file bloat to guide user file management."
+date: "2024-07"
+categories: [Python, API, CI/CD]
+---
+
+## Overview
+
+Co-authored a Python API using Git, CI/CD, and test-driven development. The API visualizes file sizes and identifies file bloat to guide user file management.
+
+## Approach
+
+- Designed an API that scans and analyzes filesystem structure
+- Implemented file size visualization and bloat detection
+- Developed with test-driven methodology and continuous integration
+
+## Tools & Technologies
+
+- Python
+- Git
+- CI/CD pipelines
+- Test-driven development

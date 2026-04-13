@@ -1,21 +1,17 @@
 ---
 title: "Jeffrey's Git Page"
 ---
-# [My GitHub Page](https://github.com/JeffHDing)
+
+# Welcome
+
+Thanks for visiting! I'm Jeffrey -- a data scientist with a background in medical sciences and clinical research, now pursuing my Master of Data Science at the University of British Columbia.
+
+This site is a space where I share my work and interests in Data Science, Machine Learning, and software development.
+
+# [My GitHub](https://github.com/JeffHDing)
+
 My GitHub page contains various repositories related to my projects and interests. Feel free to explore and contribute!
 
-# Detecting diabetic retinopathy with AI
-This project preprocesses and analyzes retina scans with a Convolutional Neural Network and Residual blocks using Keras and Tensorflow 2.0 to improve early detection of retinopathy.
+# [Projects](projects/index.html)
 
-# Motor Vehicle Collisions of New York City
-This is an interactive web app built using Python, Folium, and Streamlit to visualize NYC traffic accidents.
-Information is pulled from realtime NYC traffic database and visualized below.
-
-# Stock Exchange Revenue Dashboard
-
-
-
-# Website Info
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Check out my portfolio of projects spanning deep learning, data visualization, and full-stack applications.

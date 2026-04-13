@@ -1,0 +1,23 @@
+---
+title: "Stock Exchange Revenue Dashboard"
+description: "Jupyter notebook visualizing time-series stock data from Yahoo! Finance with dynamic figures."
+date: "2024-05"
+categories: [Python, Data Visualization, Jupyter]
+---
+
+## Overview
+
+Published a Jupyter notebook that visualizes time-series stock data from Yahoo! Finance using dynamic figures.
+
+## Approach
+
+- Pulled historical stock data via Yahoo! Finance APIs
+- Created interactive time-series visualizations
+- Analyzed revenue trends and key financial indicators
+
+## Tools & Technologies
+
+- Python
+- Jupyter Notebook
+- Yahoo! Finance API
+- Plotly / dynamic visualization libraries

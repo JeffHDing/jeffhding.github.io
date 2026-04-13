@@ -14,17 +14,206 @@
     "text": "Chess\nI first picked up chess during my undergraduate program as a competitive and mentally stimulating outlet. While my rating is quite low, chess has been a pleasant amateur hobby of mine over the last few years. At my level, the schema of memorized openings and theory is rather limited; therefore, my games quickly diverge from known sequences and into uncharted territory. I really appreciate the abundance of novel challenges in every game, and the convenience of online matchmaking has made chess a consistent pastime. I enjoy playing casual games, solving puzzles, and occasionally watching chess content!\n\nPlayer Profile\nMy Player Name: Loading…\nCheck out my current stats from Chess.com:\n\n\n\nMode\nRating\n\n\n\n\n⚡ Blitz\n…\n\n\n🚀 Bullet\n…\n\n\n⏱️ Rapid\n…\n\n\n🧩 Puzzle Rush\n…\n\n\n\n Loading Challenge Link…"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jeffrey’s Git Page",
-    "section": "",
-    "text": "My GitHub Page\nMy GitHub page contains various repositories related to my projects and interests. Feel free to explore and contribute!\n\n\nDetecting diabetic retinopathy with AI\nThis project preprocesses and analyzes retina scans with a Convolutional Neural Network and Residual blocks using Keras and Tensorflow 2.0 to improve early detection of retinopathy.\n\n\nMotor Vehicle Collisions of New York City\nThis is an interactive web app built using Python, Folium, and Streamlit to visualize NYC traffic accidents. Information is pulled from realtime NYC traffic database and visualized below.\n\n\nStock Exchange Revenue Dashboard\n\n\nWebsite Info\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html#brazilian-jiu-jitsu",
     "href": "about.html#brazilian-jiu-jitsu",
     "title": "About",
     "section": "Brazilian Jiu-jitsu",
     "text": "Brazilian Jiu-jitsu\nI was first exposed to Brazilian Jiu-jitsu (BJJ) during my undergraduate program when my roommate dove into the sport. As the nearest friend of similar size and build, I was roped into his newfound interest as the defacto sparring partner. Not to say that I didn’t enjoy the experience, I found BJJ to be an very rewarding physical activity with which I’m continuously fascinated.\nPossibly owing to it’s Brazilian influence, BJJ had a more casual environment and culture than its Japanese roots. The ease and friendliness of the sport was more accessible to newcomers and made it easier for me to partipate. As a martial art, BJJ had a surprisingly amount of technical and strategic depth to each match. It also demanded high amounts of energy and exertion for for each sparring session, otherwise known as a roll. This made BJJ a very physically and mentally engaging exercise that I could enjoy in very discrete sections of time."
+  },
+  {
+    "objectID": "projects/nyc-collisions.html",
+    "href": "projects/nyc-collisions.html",
+    "title": "Motor Vehicle Collision Heatmap of New York City",
+    "section": "",
+    "text": "Designed an interactive web app with Python, Folium, and Streamlit to visualize NYC traffic accidents. Information is pulled from a real-time NYC traffic database and displayed on an interactive heatmap."
+  },
+  {
+    "objectID": "projects/nyc-collisions.html#overview",
+    "href": "projects/nyc-collisions.html#overview",
+    "title": "Motor Vehicle Collision Heatmap of New York City",
+    "section": "",
+    "text": "Designed an interactive web app with Python, Folium, and Streamlit to visualize NYC traffic accidents. Information is pulled from a real-time NYC traffic database and displayed on an interactive heatmap."
+  },
+  {
+    "objectID": "projects/nyc-collisions.html#approach",
+    "href": "projects/nyc-collisions.html#approach",
+    "title": "Motor Vehicle Collision Heatmap of New York City",
+    "section": "Approach",
+    "text": "Approach\n\nConnected to NYC’s open traffic collision dataset\nBuilt an interactive heatmap layer with Folium\nDeployed the app as a Streamlit web application"
+  },
+  {
+    "objectID": "projects/nyc-collisions.html#tools-technologies",
+    "href": "projects/nyc-collisions.html#tools-technologies",
+    "title": "Motor Vehicle Collision Heatmap of New York City",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\n\nPython\nStreamlit\nFolium"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Maternal Health Risk Classifier\n\n\n\nPython\n\nMachine Learning\n\nClassification\n\n\n\nSupport Vector Classifier to predict maternal health risk tiers from IoT sensor data.\n\n\n\nAug 1, 2024\n\n\n\n\n\n\n\n\n\n\nFilesystem Organizing API\n\n\n\nPython\n\nAPI\n\nCI/CD\n\n\n\nPython API for visualizing file sizes and identifying file bloat to guide user file management.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\nDetecting Diabetic Retinopathy with AI\n\n\n\nPython\n\nDeep Learning\n\nKeras\n\nTensorFlow\n\n\n\nDeep learning model to improve early detection of diabetic retinopathy from retina scans.\n\n\n\nJun 1, 2024\n\n\n\n\n\n\n\n\n\n\nStock Exchange Revenue Dashboard\n\n\n\nPython\n\nData Visualization\n\nJupyter\n\n\n\nJupyter notebook visualizing time-series stock data from Yahoo! Finance with dynamic figures.\n\n\n\nMay 1, 2024\n\n\n\n\n\n\n\n\n\n\nMotor Vehicle Collision Heatmap of New York City\n\n\n\nPython\n\nStreamlit\n\nData Visualization\n\nFolium\n\n\n\nInteractive web app visualizing NYC traffic accidents with real-time data.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/filesystem-api.html",
+    "href": "projects/filesystem-api.html",
+    "title": "Filesystem Organizing API",
+    "section": "",
+    "text": "Co-authored a Python API using Git, CI/CD, and test-driven development. The API visualizes file sizes and identifies file bloat to guide user file management."
+  },
+  {
+    "objectID": "projects/filesystem-api.html#overview",
+    "href": "projects/filesystem-api.html#overview",
+    "title": "Filesystem Organizing API",
+    "section": "",
+    "text": "Co-authored a Python API using Git, CI/CD, and test-driven development. The API visualizes file sizes and identifies file bloat to guide user file management."
+  },
+  {
+    "objectID": "projects/filesystem-api.html#approach",
+    "href": "projects/filesystem-api.html#approach",
+    "title": "Filesystem Organizing API",
+    "section": "Approach",
+    "text": "Approach\n\nDesigned an API that scans and analyzes filesystem structure\nImplemented file size visualization and bloat detection\nDeveloped with test-driven methodology and continuous integration"
+  },
+  {
+    "objectID": "projects/filesystem-api.html#tools-technologies",
+    "href": "projects/filesystem-api.html#tools-technologies",
+    "title": "Filesystem Organizing API",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\n\nPython\nGit\nCI/CD pipelines\nTest-driven development"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF Resume"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nData Analysis, Data Processing, EDA, Data Mining, Data Visualization, Data Warehousing, Data Modelling, CI/CD, Machine Learning, AI, Agentic Workflows, Python, Git, R, PostgreSQL, JavaScript, IBM Db2, MongoDB, AWS"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\n\nData Manager | Sunnybrook Research Institute\nFeb 2022 – Feb 2024\n\nAbstracted unstructured data from 250+ patients to evaluate wellness and determine treatment efficacy\nIncreased trial participation by an estimated 40% by aggregating and screening new patient data\nAccelerated the activation of 10+ new trials through financial and legal submissions\nLiaised with sponsor clients by facilitating on-site/remote visits and reconciling 200+ queries\nOrchestrated the simultaneous conduct of 15+ clinical trials by coordinating cross-functional teams\n\n\n\nSummer Undergraduate Researcher | University Health Network\nMay – Aug 2019\n\nPerformed regression on open-source data to correlate comorbidities and clinical trial participation\nInvestigated provincial healthcare data to optimize the transition of cancer survivors to primary care\nFacilitated 15 research studies by directing patients and maintaining databases with Excel and SPSS\n\n\n\nMachine Learning for Life Science Mentorship | University of Toronto\nJun 2024 – Jul 2025\n\nPartnered with researchers as a volunteer clinical research coordinator consultant\nApplied learned machine learning and deep learning concepts towards developing independent projects"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\nMaster of Data Science\nUniversity of British Columbia | 2025 – Jun 2026 (Projected)\n\n\nBachelor of Medical Sciences\nUniversity of Western Ontario | 2017 – 2021\nHonours Specialization in Interdisciplinary Medical Sciences\n\nGPA 3.7\nThe Western Scholarship of Excellence\nDean’s Honor List"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "Certifications",
+    "text": "Certifications\n\nIBM Data Science Professional Specialization | IBM, Coursera 2024"
+  },
+  {
+    "objectID": "projects/maternal-health.html",
+    "href": "projects/maternal-health.html",
+    "title": "Maternal Health Risk Classifier",
+    "section": "",
+    "text": "Engineered a Support Vector Classifier (SVC) to predict maternal health risk tiers using processed IoT data, achieving 77% overall accuracy and 91% recall (0.943 AUC) for critical identification of at-risk mothers."
+  },
+  {
+    "objectID": "projects/maternal-health.html#overview",
+    "href": "projects/maternal-health.html#overview",
+    "title": "Maternal Health Risk Classifier",
+    "section": "",
+    "text": "Engineered a Support Vector Classifier (SVC) to predict maternal health risk tiers using processed IoT data, achieving 77% overall accuracy and 91% recall (0.943 AUC) for critical identification of at-risk mothers."
+  },
+  {
+    "objectID": "projects/maternal-health.html#approach",
+    "href": "projects/maternal-health.html#approach",
+    "title": "Maternal Health Risk Classifier",
+    "section": "Approach",
+    "text": "Approach\n\nProcessed IoT health sensor data for feature engineering\nTrained and tuned a Support Vector Classifier across multiple risk tiers\nPrioritized recall to minimize missed high-risk cases"
+  },
+  {
+    "objectID": "projects/maternal-health.html#results",
+    "href": "projects/maternal-health.html#results",
+    "title": "Maternal Health Risk Classifier",
+    "section": "Results",
+    "text": "Results\n\n\n\nMetric\nValue\n\n\n\n\nOverall Accuracy\n77%\n\n\nHigh-Risk Recall\n91%\n\n\nAUC\n0.943"
+  },
+  {
+    "objectID": "projects/maternal-health.html#tools-technologies",
+    "href": "projects/maternal-health.html#tools-technologies",
+    "title": "Maternal Health Risk Classifier",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\n\nPython\nscikit-learn (SVC)\nIoT health data"
+  },
+  {
+    "objectID": "projects/retinopathy.html",
+    "href": "projects/retinopathy.html",
+    "title": "Detecting Diabetic Retinopathy with AI",
+    "section": "",
+    "text": "This project preprocesses and analyzes retina scans with a Convolutional Neural Network (CNN) and Residual blocks using Keras and TensorFlow 2.0 to improve early detection of diabetic retinopathy."
+  },
+  {
+    "objectID": "projects/retinopathy.html#overview",
+    "href": "projects/retinopathy.html#overview",
+    "title": "Detecting Diabetic Retinopathy with AI",
+    "section": "",
+    "text": "This project preprocesses and analyzes retina scans with a Convolutional Neural Network (CNN) and Residual blocks using Keras and TensorFlow 2.0 to improve early detection of diabetic retinopathy."
+  },
+  {
+    "objectID": "projects/retinopathy.html#approach",
+    "href": "projects/retinopathy.html#approach",
+    "title": "Detecting Diabetic Retinopathy with AI",
+    "section": "Approach",
+    "text": "Approach\n\nBuilt a CNN architecture with residual connections for image classification\nPreprocessed retinal scan imagery for model training\nEvaluated model performance on detection accuracy across severity grades"
+  },
+  {
+    "objectID": "projects/retinopathy.html#tools-technologies",
+    "href": "projects/retinopathy.html#tools-technologies",
+    "title": "Detecting Diabetic Retinopathy with AI",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\n\nPython\nKeras / TensorFlow 2.0\nConvolutional Neural Networks with Residual blocks"
+  },
+  {
+    "objectID": "projects/stock-dashboard.html",
+    "href": "projects/stock-dashboard.html",
+    "title": "Stock Exchange Revenue Dashboard",
+    "section": "",
+    "text": "Published a Jupyter notebook that visualizes time-series stock data from Yahoo! Finance using dynamic figures."
+  },
+  {
+    "objectID": "projects/stock-dashboard.html#overview",
+    "href": "projects/stock-dashboard.html#overview",
+    "title": "Stock Exchange Revenue Dashboard",
+    "section": "",
+    "text": "Published a Jupyter notebook that visualizes time-series stock data from Yahoo! Finance using dynamic figures."
+  },
+  {
+    "objectID": "projects/stock-dashboard.html#approach",
+    "href": "projects/stock-dashboard.html#approach",
+    "title": "Stock Exchange Revenue Dashboard",
+    "section": "Approach",
+    "text": "Approach\n\nPulled historical stock data via Yahoo! Finance APIs\nCreated interactive time-series visualizations\nAnalyzed revenue trends and key financial indicators"
+  },
+  {
+    "objectID": "projects/stock-dashboard.html#tools-technologies",
+    "href": "projects/stock-dashboard.html#tools-technologies",
+    "title": "Stock Exchange Revenue Dashboard",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\n\nPython\nJupyter Notebook\nYahoo! Finance API\nPlotly / dynamic visualization libraries"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jeffrey’s Git Page",
+    "section": "",
+    "text": "Welcome\nThanks for visiting! I’m Jeffrey – a data scientist with a background in medical sciences and clinical research, now pursuing my Master of Data Science at the University of British Columbia.\nThis site is a space where I share my work and interests in Data Science, Machine Learning, and software development.\n\n\nMy GitHub\nMy GitHub page contains various repositories related to my projects and interests. Feel free to explore and contribute!\n\n\nProjects\nCheck out my portfolio of projects spanning deep learning, data visualization, and full-stack applications."
   }
 ]

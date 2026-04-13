@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - src/js/
+    - assets/
 
 website:
   title: "Jeffrey's Git Page"
@@ -10,6 +11,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: projects/index.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
       - about.qmd
 
 format:

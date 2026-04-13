@@ -1,0 +1,22 @@
+---
+title: "Detecting Diabetic Retinopathy with AI"
+description: "Deep learning model to improve early detection of diabetic retinopathy from retina scans."
+date: "2024-06"
+categories: [Python, Deep Learning, Keras, TensorFlow]
+---
+
+## Overview
+
+This project preprocesses and analyzes retina scans with a Convolutional Neural Network (CNN) and Residual blocks using Keras and TensorFlow 2.0 to improve early detection of diabetic retinopathy.
+
+## Approach
+
+- Built a CNN architecture with residual connections for image classification
+- Preprocessed retinal scan imagery for model training
+- Evaluated model performance on detection accuracy across severity grades
+
+## Tools & Technologies
+
+- Python
+- Keras / TensorFlow 2.0
+- Convolutional Neural Networks with Residual blocks
