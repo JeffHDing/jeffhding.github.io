@@ -1,18 +1,21 @@
-// src/chess-stats.js
+// Chess.com stats widget (About page)
 document.addEventListener("DOMContentLoaded", function() {
   
   // --- CONFIGURATION ---
-  const myUsername = "Jun-Ding"; 
+  // Use the canonical lowercase handle — Chess.com’s challenge shortcut expects it.
+  const myUsername = "jun-ding";
   
   // --- CONSTANTS ---
   const statsUrl = `https://api.chess.com/pub/player/${myUsername}/stats`;
-  const profileUrl = `https://api.chess.com/pub/player/${myUsername}`; // <--- This was missing before!
+  const profileUrl = `https://api.chess.com/pub/player/${myUsername}`;
   
-  // 1. UPDATE CHALLENGE BUTTON
+  // Documented shortcut: https://support.chess.com/en/articles/8588467-how-do-i-play-a-friend
+  const challengeUrl = `https://www.chess.com/play/${encodeURIComponent(myUsername)}`;
+  
   const challengeLink = document.getElementById("challenge-link");
   if (challengeLink) {
-    challengeLink.href = `https://www.chess.com/play/online/new?opponent=${myUsername}`;
-    challengeLink.innerText = `Challenge ${myUsername}`;
+    challengeLink.href = challengeUrl;
+    challengeLink.innerText = `Challenge @${myUsername}`;
   }
 
   // 2. FETCH PROFILE (Get Real Name)

@@ -12,6 +12,6 @@ This site is a space where I share my work and interests in Data Science, Machin
 
 My GitHub page contains various repositories related to my projects and interests. Feel free to explore and contribute!
 
-# [Projects](projects/index.html)
+# [Projects](projects/index.qmd)
 
 Check out my portfolio of projects spanning deep learning, data visualization, and full-stack applications.
